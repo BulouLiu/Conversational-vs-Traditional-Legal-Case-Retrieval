@@ -5,7 +5,7 @@ This is a conversational legal case retrieval dataset collected in a lab-based u
 
 This dataset contains 127 tasks from legal practitioners’ real information needs. 
 
-Specifically, there are 55 tasks conducted by both traditional and conversational paradigms (reported in our paper) and 72 tasks just by the conversational paradigm (`extend version.zip`).
+Specifically, there are 55 tasks conducted by both traditional and conversational paradigms (reported in our paper) and 72 tasks just by the conversational paradigm (`extend-1.xlsx` and `extended-2.xlsx`).
 
 This dataset was created in a wizard-of-oz approach. We recruited legal experts as intermediary agents following three principles
  - They had passed the “National Uniform Legal Profession Qualification Examination”
