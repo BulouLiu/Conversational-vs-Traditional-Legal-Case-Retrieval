@@ -1,6 +1,6 @@
 # Conversational-vs-Traditional-Legal-Case-Retrieval
 
-##Introduction
+## Introduction
 This is a conversational legal case retrieval dataset collected in a lab-based user study. 
 
 This dataset contains 147 tasks from legal practitioners’ real information needs. 
@@ -12,9 +12,11 @@ This dataset was created in a wizard-of-oz approach. We recruited legal experts 
  - They only participated in the task according their research fields.
  - They all achieved at least a score of 95 in courses related to their experimental topics.
 
-##Citation
+## Citation
+
 Please cite our paper if you use our dataset in your work:
-``
+
+```
 @inproceedings{liu2021conversational,
   title={Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval},
   author={Liu, Bulou and Wu, Yueyue and Liu, Yiqun and Zhang, Fan and Shao, Yunqiu and Li, Chenliang and Zhang, Min and Ma, Shaoping},
@@ -22,4 +24,4 @@ Please cite our paper if you use our dataset in your work:
   pages={1622--1626},
   year={2021}
 }
-``
+```
