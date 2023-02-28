@@ -1,11 +1,9 @@
-# Conversational-vs-Traditional-Legal-Case-Retrieval
+# Conversational-vs-Traditional-Legal-Case-Retrieval (CLCR)
 
 ## Introduction
-This is a conversational legal case retrieval dataset collected in a lab-based user study. 
+This is a conversational legal case retrieval dataset collected in a lab-based user study, named CLCR. 
 
-This dataset contains 127 tasks from legal practitioners’ real information needs. 
-
-Specifically, there are 55 tasks conducted by both traditional and conversational paradigms (reported in our paper) and 72 tasks just by the conversational paradigm (`extend-1.xlsx` and `extended-2.xlsx`).
+Specifically, there are 55 tasks conducted by both traditional and conversational paradigms (reported in our paper).
 
 This dataset was created in a wizard-of-oz approach. We recruited legal experts as intermediary agents following three principles
  - They had passed the “National Uniform Legal Profession Qualification Examination”
